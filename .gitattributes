@@ -1,2 +1,1 @@
-example/assets/** filter=lfs diff=lfs merge=lfs -text
 example/assets/sample-15s.wav filter=lfs diff=lfs merge=lfs -text
